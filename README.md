@@ -1,2 +1,0 @@
-# shazrepo
-shagurl's repositories
